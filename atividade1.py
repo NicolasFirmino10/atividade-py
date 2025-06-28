@@ -36,4 +36,3 @@ print("Quantidade:", quantidade)
 print("Preço total: R$", round(preco_total, 2))
 
 
-
