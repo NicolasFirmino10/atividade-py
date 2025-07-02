@@ -23,7 +23,6 @@ print(f"Idade em dias: {idade_em_dias(2000)}")
 
 # Exercício 3: Verifica se é palíndromo
 
-import string
 
 def eh_palindromo(texto):
     texto_limpo = ''.join(c.lower() for c in texto if c.isalnum()) 
